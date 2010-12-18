@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'S1_hexagon' target in the 'S1_hexagon' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
